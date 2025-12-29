@@ -37,7 +37,9 @@ After five consecutive failed login attempts, the account is automatically locke
 - `auth.log`  
   Contains an audit trail of authentication events including successful logins, failures, and lockouts. (The file is generated automatically while the script is running.)
 
-  ### CLI Demonstration
+## Screenshots
+
+### CLI Demonstration
 ![CLI Demo](docs/screenshots/cli-demo.png)
 
 ### Failed Attempts & Lockout State
